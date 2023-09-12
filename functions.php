@@ -1,5 +1,5 @@
 <?php
 
-function getAverageWinterTemp(int $targetYear): float {
+function getAverageWinterTemp(int $winterStartYear, int $winterEndYear): float {
     return 0;
 }
