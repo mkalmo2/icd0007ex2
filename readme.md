@@ -68,7 +68,7 @@ https://www.youtube.com/watch?v=6piWKpjCQPw
 3.  Lõplik eesmärk on teha rakendus, mis võimaldab sisestada, infot
     töötajate ja ülesannete kohta.
 
-    Näide: https://enos.itcollege.ee/\~makalm/icd0007/sample/
+    Näide: https://enos.itcollege.ee/~makalm/icd0007/sample/
 
     Alustuseks teeme valmis staatilised Html lehed, millele hiljem
     vajalikud funktsioonid (nt. salvestamise) juurde paneme.
